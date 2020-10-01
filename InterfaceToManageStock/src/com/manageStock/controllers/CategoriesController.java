@@ -20,7 +20,8 @@ import com.manageStock.util.UtilityClass;
 
 @Controller
 public class CategoriesController {
-
+//
+	
 	@Autowired CategoriesService service;
 	
 	 @Autowired
